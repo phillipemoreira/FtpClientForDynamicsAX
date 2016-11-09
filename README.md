@@ -1,11 +1,11 @@
 # Ftp Client For DynamicsAX
 Sample FTP client for Dynamics AX
 
-# How to get it
+## How to get it
 
 Download the xpo file and import it in AOT.
 
-# How to use it
+## How to use it
 
 There is a job inside the project that downloads the contents of a given FTP into c:/path directory as well as upload a file from the same path into the given FTP.
 
