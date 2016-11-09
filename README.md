@@ -1,6 +1,8 @@
 # Ftp Client For DynamicsAX
 Sample FTP client for Dynamics AX
 
+Keywords: FTP, DynamicsAX; Dynamics AX; Axapta
+
 ## How to get it
 
 Download the xpo file and import it in AOT.
